@@ -7,7 +7,7 @@
 
  - Introdução à Ciência de Dados
  - Introdução ao Big Data
- - Pipeline da Ciência de Dados.
+ - Pipeline da Ciência de Dados
 
 📚 **Módulo II - Coleta e obrenção dos dados (32h)**
 
